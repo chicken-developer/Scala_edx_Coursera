@@ -1,0 +1,5 @@
+package Excersice
+
+class Currying {
+
+}

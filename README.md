@@ -1,1 +1,1 @@
-"This is all edX course excercises"
+"This is all edX & Coursera course exercises"
